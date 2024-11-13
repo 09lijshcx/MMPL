@@ -1,0 +1,408 @@
+nohup: ignoring input
+Random seed : 10
+wandb: WARNING W&B installed but not logged in.  Run `wandb login` or set the WANDB_API_KEY env variable.
+Pre-trained weights of KPGT were loaded successfully!
+Set of Optimizer: lr:2e-05, weight_decay:0.2
+Current Optimizer is adan
+Current learning rate is [1.3333333333333335e-09].
+Let's start training!
+epoch: 1 / 20,step 999 / 18630, loss: 2.79492903
+epoch: 1 / 20,step 1999 / 18630, loss: 2.77512121
+epoch: 1 / 20,step 2999 / 18630, loss: 2.77227640
+epoch: 1 / 20,step 3999 / 18630, loss: 2.76617956
+epoch: 1 / 20,step 4999 / 18630, loss: 2.77247095
+epoch: 1 / 20,step 5999 / 18630, loss: 2.77055287
+epoch: 1 / 20,step 6999 / 18630, loss: 2.77343082
+epoch: 1 / 20,step 7999 / 18630, loss: 2.77296376
+epoch: 1 / 20,step 8999 / 18630, loss: 2.77427983
+epoch: 1 / 20,step 9999 / 18630, loss: 2.77148724
+epoch: 1 / 20,step 10999 / 18630, loss: 2.77425909
+epoch: 1 / 20,step 11999 / 18630, loss: 2.77379179
+epoch: 1 / 20,step 12999 / 18630, loss: 2.77357984
+epoch: 1 / 20,step 13999 / 18630, loss: 2.77124357
+epoch: 1 / 20,step 14999 / 18630, loss: 2.77201557
+epoch: 1 / 20,step 15999 / 18630, loss: 2.77275085
+epoch: 1 / 20,step 16999 / 18630, loss: 2.77260303
+epoch: 1 / 20,step 17999 / 18630, loss: 2.77367806
+epoch: 1 end ; cost time: 39.0403 min
+Current learning rate is [1.974520572280702e-05].
+epoch: 2 / 20,step 999 / 18630, loss: 2.77271891
+epoch: 2 / 20,step 1999 / 18630, loss: 2.77246618
+epoch: 2 / 20,step 2999 / 18630, loss: 2.77364016
+epoch: 2 / 20,step 3999 / 18630, loss: 2.77255416
+epoch: 2 / 20,step 4999 / 18630, loss: 2.77399921
+epoch: 2 / 20,step 5999 / 18630, loss: 2.77279854
+epoch: 2 / 20,step 6999 / 18630, loss: 2.77195358
+epoch: 2 / 20,step 7999 / 18630, loss: 2.77326703
+epoch: 2 / 20,step 8999 / 18630, loss: 2.77369308
+epoch: 2 / 20,step 9999 / 18630, loss: 2.77197886
+epoch: 2 / 20,step 10999 / 18630, loss: 2.77244902
+epoch: 2 / 20,step 11999 / 18630, loss: 2.77284288
+epoch: 2 / 20,step 12999 / 18630, loss: 2.77263618
+epoch: 2 / 20,step 13999 / 18630, loss: 2.77264261
+epoch: 2 / 20,step 14999 / 18630, loss: 2.77207875
+epoch: 2 / 20,step 15999 / 18630, loss: 2.77309656
+epoch: 2 / 20,step 16999 / 18630, loss: 2.77275229
+epoch: 2 / 20,step 17999 / 18630, loss: 2.77319384
+epoch: 2 end ; cost time: 38.9350 min
+Current learning rate is [1.843790267017544e-05].
+epoch: 3 / 20,step 999 / 18630, loss: 2.77239656
+epoch: 3 / 20,step 1999 / 18630, loss: 2.77304697
+epoch: 3 / 20,step 2999 / 18630, loss: 2.77213860
+epoch: 3 / 20,step 3999 / 18630, loss: 2.77283406
+epoch: 3 / 20,step 4999 / 18630, loss: 2.77280593
+epoch: 3 / 20,step 5999 / 18630, loss: 2.77311826
+epoch: 3 / 20,step 6999 / 18630, loss: 2.77254343
+epoch: 3 / 20,step 7999 / 18630, loss: 2.77273083
+epoch: 3 / 20,step 8999 / 18630, loss: 2.77288103
+epoch: 3 / 20,step 9999 / 18630, loss: 2.77232027
+epoch: 3 / 20,step 10999 / 18630, loss: 2.77268410
+epoch: 3 / 20,step 11999 / 18630, loss: 2.77295017
+epoch: 3 / 20,step 12999 / 18630, loss: 2.77289867
+epoch: 3 / 20,step 13999 / 18630, loss: 2.77276421
+epoch: 3 / 20,step 14999 / 18630, loss: 2.77237773
+epoch: 3 / 20,step 15999 / 18630, loss: 2.77259874
+epoch: 3 / 20,step 16999 / 18630, loss: 2.77216649
+epoch: 3 / 20,step 17999 / 18630, loss: 2.77240801
+epoch: 3 end ; cost time: 39.0075 min
+Current learning rate is [1.7130599617543863e-05].
+epoch: 4 / 20,step 999 / 18630, loss: 2.77223539
+epoch: 4 / 20,step 1999 / 18630, loss: 2.77222300
+epoch: 4 / 20,step 2999 / 18630, loss: 2.77292156
+epoch: 4 / 20,step 3999 / 18630, loss: 2.77240515
+epoch: 4 / 20,step 4999 / 18630, loss: 2.77250481
+epoch: 4 / 20,step 5999 / 18630, loss: 2.77260637
+epoch: 4 / 20,step 6999 / 18630, loss: 2.77244663
+epoch: 4 / 20,step 7999 / 18630, loss: 2.77253270
+epoch: 4 / 20,step 8999 / 18630, loss: 2.77272415
+epoch: 4 / 20,step 9999 / 18630, loss: 2.77230072
+epoch: 4 / 20,step 10999 / 18630, loss: 2.77274323
+epoch: 4 / 20,step 11999 / 18630, loss: 2.77166605
+epoch: 4 / 20,step 12999 / 18630, loss: 2.77240324
+epoch: 4 / 20,step 13999 / 18630, loss: 2.77305269
+epoch: 4 / 20,step 14999 / 18630, loss: 2.77196121
+epoch: 4 / 20,step 15999 / 18630, loss: 2.77309895
+epoch: 4 / 20,step 16999 / 18630, loss: 2.77248526
+epoch: 4 / 20,step 17999 / 18630, loss: 2.77295017
+epoch: 4 end ; cost time: 39.0576 min
+Current learning rate is [1.582329656491228e-05].
+epoch: 5 / 20,step 999 / 18630, loss: 2.77193332
+epoch: 5 / 20,step 1999 / 18630, loss: 2.77253675
+epoch: 5 / 20,step 2999 / 18630, loss: 2.77252483
+epoch: 5 / 20,step 3999 / 18630, loss: 2.77269149
+epoch: 5 / 20,step 4999 / 18630, loss: 2.77306557
+epoch: 5 / 20,step 5999 / 18630, loss: 2.77244043
+epoch: 5 / 20,step 6999 / 18630, loss: 2.77258778
+epoch: 5 / 20,step 7999 / 18630, loss: 2.77217960
+epoch: 5 / 20,step 8999 / 18630, loss: 2.77296233
+epoch: 5 / 20,step 9999 / 18630, loss: 2.77249026
+epoch: 5 / 20,step 10999 / 18630, loss: 2.77269650
+epoch: 5 / 20,step 11999 / 18630, loss: 2.77282143
+epoch: 5 / 20,step 12999 / 18630, loss: 2.77287436
+epoch: 5 / 20,step 13999 / 18630, loss: 2.77274156
+epoch: 5 / 20,step 14999 / 18630, loss: 2.77280378
+epoch: 5 / 20,step 15999 / 18630, loss: 2.77241755
+epoch: 5 / 20,step 16999 / 18630, loss: 2.77247429
+epoch: 5 / 20,step 17999 / 18630, loss: 2.77292490
+epoch: 5 end ; cost time: 39.5066 min
+Current learning rate is [1.4515993512280704e-05].
+epoch: 6 / 20,step 999 / 18630, loss: 2.77253485
+epoch: 6 / 20,step 1999 / 18630, loss: 2.77250862
+epoch: 6 / 20,step 2999 / 18630, loss: 2.77272320
+epoch: 6 / 20,step 3999 / 18630, loss: 2.77239442
+epoch: 6 / 20,step 4999 / 18630, loss: 2.77263570
+epoch: 6 / 20,step 5999 / 18630, loss: 2.77291059
+epoch: 6 / 20,step 6999 / 18630, loss: 2.77258348
+epoch: 6 / 20,step 7999 / 18630, loss: 2.77254248
+epoch: 6 / 20,step 8999 / 18630, loss: 2.77266812
+epoch: 6 / 20,step 9999 / 18630, loss: 2.77272606
+epoch: 6 / 20,step 10999 / 18630, loss: 2.77294731
+epoch: 6 / 20,step 11999 / 18630, loss: 2.77231741
+epoch: 6 / 20,step 12999 / 18630, loss: 2.77245069
+epoch: 6 / 20,step 13999 / 18630, loss: 2.77273798
+epoch: 6 / 20,step 14999 / 18630, loss: 2.77212620
+epoch: 6 / 20,step 15999 / 18630, loss: 2.77263927
+epoch: 6 / 20,step 16999 / 18630, loss: 2.77274799
+epoch: 6 / 20,step 17999 / 18630, loss: 2.77238560
+epoch: 6 end ; cost time: 39.4303 min
+Current learning rate is [1.3208690459649126e-05].
+epoch: 7 / 20,step 999 / 18630, loss: 2.77146173
+epoch: 7 / 20,step 1999 / 18630, loss: 2.77304697
+epoch: 7 / 20,step 2999 / 18630, loss: 2.77217436
+epoch: 7 / 20,step 3999 / 18630, loss: 2.77279329
+epoch: 7 / 20,step 4999 / 18630, loss: 2.77226233
+epoch: 7 / 20,step 5999 / 18630, loss: 2.77259970
+epoch: 7 / 20,step 6999 / 18630, loss: 2.77248001
+epoch: 7 / 20,step 7999 / 18630, loss: 2.77249432
+epoch: 7 / 20,step 8999 / 18630, loss: 2.77270675
+epoch: 7 / 20,step 9999 / 18630, loss: 2.77275777
+epoch: 7 / 20,step 10999 / 18630, loss: 2.77268505
+epoch: 7 / 20,step 11999 / 18630, loss: 2.77204394
+epoch: 7 / 20,step 12999 / 18630, loss: 2.77252507
+epoch: 7 / 20,step 13999 / 18630, loss: 2.77274919
+epoch: 7 / 20,step 14999 / 18630, loss: 2.77268076
+epoch: 7 / 20,step 15999 / 18630, loss: 2.77262235
+epoch: 7 / 20,step 16999 / 18630, loss: 2.77255726
+epoch: 7 / 20,step 17999 / 18630, loss: 2.77271938
+epoch: 7 end ; cost time: 39.4148 min
+Current learning rate is [1.1901387407017548e-05].
+epoch: 8 / 20,step 999 / 18630, loss: 2.77271056
+epoch: 8 / 20,step 1999 / 18630, loss: 2.77249718
+epoch: 8 / 20,step 2999 / 18630, loss: 2.77246976
+epoch: 8 / 20,step 3999 / 18630, loss: 2.77243996
+epoch: 8 / 20,step 4999 / 18630, loss: 2.77251673
+epoch: 8 / 20,step 5999 / 18630, loss: 2.77247763
+epoch: 8 / 20,step 6999 / 18630, loss: 2.77254820
+epoch: 8 / 20,step 7999 / 18630, loss: 2.77250147
+epoch: 8 / 20,step 8999 / 18630, loss: 2.77264738
+epoch: 8 / 20,step 9999 / 18630, loss: 2.77256560
+epoch: 8 / 20,step 10999 / 18630, loss: 2.77269769
+epoch: 8 / 20,step 11999 / 18630, loss: 2.77264929
+epoch: 8 / 20,step 12999 / 18630, loss: 2.77256775
+epoch: 8 / 20,step 13999 / 18630, loss: 2.77291226
+epoch: 8 / 20,step 14999 / 18630, loss: 2.77275229
+epoch: 8 / 20,step 15999 / 18630, loss: 2.77239037
+epoch: 8 / 20,step 16999 / 18630, loss: 2.77265215
+epoch: 8 / 20,step 17999 / 18630, loss: 2.77253723
+epoch: 8 end ; cost time: 39.3346 min
+Current learning rate is [1.0594084354385966e-05].
+epoch: 9 / 20,step 999 / 18630, loss: 2.77258730
+epoch: 9 / 20,step 1999 / 18630, loss: 2.77253652
+epoch: 9 / 20,step 2999 / 18630, loss: 2.77262878
+epoch: 9 / 20,step 3999 / 18630, loss: 2.77264833
+epoch: 9 / 20,step 4999 / 18630, loss: 2.77240825
+epoch: 9 / 20,step 5999 / 18630, loss: 2.77242827
+epoch: 9 / 20,step 6999 / 18630, loss: 2.77246618
+epoch: 9 / 20,step 7999 / 18630, loss: 2.77232361
+epoch: 9 / 20,step 8999 / 18630, loss: 2.77247334
+epoch: 9 / 20,step 9999 / 18630, loss: 2.77267027
+epoch: 9 / 20,step 10999 / 18630, loss: 2.77254057
+epoch: 9 / 20,step 11999 / 18630, loss: 2.77279711
+epoch: 9 / 20,step 12999 / 18630, loss: 2.77274776
+epoch: 9 / 20,step 13999 / 18630, loss: 2.77238870
+epoch: 9 / 20,step 14999 / 18630, loss: 2.77268791
+epoch: 9 / 20,step 15999 / 18630, loss: 2.77258706
+epoch: 9 / 20,step 16999 / 18630, loss: 2.77236605
+epoch: 9 / 20,step 17999 / 18630, loss: 2.77254438
+epoch: 9 end ; cost time: 39.4772 min
+Current learning rate is [9.286781301754387e-06].
+epoch: 10 / 20,step 999 / 18630, loss: 2.77247190
+epoch: 10 / 20,step 1999 / 18630, loss: 2.77255917
+epoch: 10 / 20,step 2999 / 18630, loss: 2.77263689
+epoch: 10 / 20,step 3999 / 18630, loss: 2.77258158
+epoch: 10 / 20,step 4999 / 18630, loss: 2.77294111
+epoch: 10 / 20,step 5999 / 18630, loss: 2.77215433
+epoch: 10 / 20,step 6999 / 18630, loss: 2.77264142
+epoch: 10 / 20,step 7999 / 18630, loss: 2.77259231
+epoch: 10 / 20,step 8999 / 18630, loss: 2.77253246
+epoch: 10 / 20,step 9999 / 18630, loss: 2.77264595
+epoch: 10 / 20,step 10999 / 18630, loss: 2.77268243
+epoch: 10 / 20,step 11999 / 18630, loss: 2.77272129
+epoch: 10 / 20,step 12999 / 18630, loss: 2.77249146
+epoch: 10 / 20,step 13999 / 18630, loss: 2.77263212
+epoch: 10 / 20,step 14999 / 18630, loss: 2.77278900
+epoch: 10 / 20,step 15999 / 18630, loss: 2.77260447
+epoch: 10 / 20,step 16999 / 18630, loss: 2.77273273
+epoch: 10 / 20,step 17999 / 18630, loss: 2.77249146
+epoch: 10 end ; cost time: 39.4026 min
+Current learning rate is [7.979478249122809e-06].
+epoch: 11 / 20,step 999 / 18630, loss: 2.77254248
+epoch: 11 / 20,step 1999 / 18630, loss: 2.77247620
+epoch: 11 / 20,step 2999 / 18630, loss: 2.77256989
+epoch: 11 / 20,step 3999 / 18630, loss: 2.77266121
+epoch: 11 / 20,step 4999 / 18630, loss: 2.77232218
+epoch: 11 / 20,step 5999 / 18630, loss: 2.77238464
+epoch: 11 / 20,step 6999 / 18630, loss: 2.77258110
+epoch: 11 / 20,step 7999 / 18630, loss: 2.77279258
+epoch: 11 / 20,step 8999 / 18630, loss: 2.77272344
+epoch: 11 / 20,step 9999 / 18630, loss: 2.77260160
+epoch: 11 / 20,step 10999 / 18630, loss: 2.77271700
+epoch: 11 / 20,step 11999 / 18630, loss: 2.77264905
+epoch: 11 / 20,step 12999 / 18630, loss: 2.77264500
+epoch: 11 / 20,step 13999 / 18630, loss: 2.77272630
+epoch: 11 / 20,step 14999 / 18630, loss: 2.77259970
+epoch: 11 / 20,step 15999 / 18630, loss: 2.77218246
+epoch: 11 / 20,step 16999 / 18630, loss: 2.77241468
+epoch: 11 / 20,step 17999 / 18630, loss: 2.77234077
+epoch: 11 end ; cost time: 39.4834 min
+Current learning rate is [6.672175196491228e-06].
+epoch: 12 / 20,step 999 / 18630, loss: 2.77255678
+epoch: 12 / 20,step 1999 / 18630, loss: 2.77258396
+epoch: 12 / 20,step 2999 / 18630, loss: 2.77255249
+epoch: 12 / 20,step 3999 / 18630, loss: 2.77237558
+epoch: 12 / 20,step 4999 / 18630, loss: 2.77288437
+epoch: 12 / 20,step 5999 / 18630, loss: 2.77240133
+epoch: 12 / 20,step 6999 / 18630, loss: 2.77256155
+epoch: 12 / 20,step 7999 / 18630, loss: 2.77239561
+epoch: 12 / 20,step 8999 / 18630, loss: 2.77289128
+epoch: 12 / 20,step 9999 / 18630, loss: 2.77276659
+epoch: 12 / 20,step 10999 / 18630, loss: 2.77269602
+epoch: 12 / 20,step 11999 / 18630, loss: 2.77259827
+epoch: 12 / 20,step 12999 / 18630, loss: 2.77254295
+epoch: 12 / 20,step 13999 / 18630, loss: 2.77248001
+epoch: 12 / 20,step 14999 / 18630, loss: 2.77218819
+epoch: 12 / 20,step 15999 / 18630, loss: 2.77246952
+epoch: 12 / 20,step 16999 / 18630, loss: 2.77262235
+epoch: 12 / 20,step 17999 / 18630, loss: 2.77277303
+epoch: 12 end ; cost time: 39.3752 min
+Current learning rate is [5.36487214385965e-06].
+epoch: 13 / 20,step 999 / 18630, loss: 2.77275324
+epoch: 13 / 20,step 1999 / 18630, loss: 2.77270460
+epoch: 13 / 20,step 2999 / 18630, loss: 2.77265406
+epoch: 13 / 20,step 3999 / 18630, loss: 2.77289677
+epoch: 13 / 20,step 4999 / 18630, loss: 2.77273631
+epoch: 13 / 20,step 5999 / 18630, loss: 2.77269316
+epoch: 13 / 20,step 6999 / 18630, loss: 2.77265477
+epoch: 13 / 20,step 7999 / 18630, loss: 2.77258730
+epoch: 13 / 20,step 8999 / 18630, loss: 2.77264214
+epoch: 13 / 20,step 9999 / 18630, loss: 2.77282858
+epoch: 13 / 20,step 10999 / 18630, loss: 2.77255654
+epoch: 13 / 20,step 11999 / 18630, loss: 2.77281666
+epoch: 13 / 20,step 12999 / 18630, loss: 2.77251577
+epoch: 13 / 20,step 13999 / 18630, loss: 2.77260733
+epoch: 13 / 20,step 14999 / 18630, loss: 2.77244258
+epoch: 13 / 20,step 15999 / 18630, loss: 2.77253628
+epoch: 13 / 20,step 16999 / 18630, loss: 2.77272367
+epoch: 13 / 20,step 17999 / 18630, loss: 2.77277374
+epoch: 13 end ; cost time: 39.3327 min
+Current learning rate is [4.05756909122807e-06].
+epoch: 14 / 20,step 999 / 18630, loss: 2.77262640
+epoch: 14 / 20,step 1999 / 18630, loss: 2.77245212
+epoch: 14 / 20,step 2999 / 18630, loss: 2.77239633
+epoch: 14 / 20,step 3999 / 18630, loss: 2.77256203
+epoch: 14 / 20,step 4999 / 18630, loss: 2.77233267
+epoch: 14 / 20,step 5999 / 18630, loss: 2.77253461
+epoch: 14 / 20,step 6999 / 18630, loss: 2.77256393
+epoch: 14 / 20,step 7999 / 18630, loss: 2.77244711
+epoch: 14 / 20,step 8999 / 18630, loss: 2.77240038
+epoch: 14 / 20,step 9999 / 18630, loss: 2.77279329
+epoch: 14 / 20,step 10999 / 18630, loss: 2.77264667
+epoch: 14 / 20,step 11999 / 18630, loss: 2.77251053
+epoch: 14 / 20,step 12999 / 18630, loss: 2.77250433
+epoch: 14 / 20,step 13999 / 18630, loss: 2.77263832
+epoch: 14 / 20,step 14999 / 18630, loss: 2.77254486
+epoch: 14 / 20,step 15999 / 18630, loss: 2.77249217
+epoch: 14 / 20,step 16999 / 18630, loss: 2.77273321
+epoch: 14 / 20,step 17999 / 18630, loss: 2.77263284
+epoch: 14 end ; cost time: 39.3242 min
+Current learning rate is [2.7502660385964925e-06].
+epoch: 15 / 20,step 999 / 18630, loss: 2.77261686
+epoch: 15 / 20,step 1999 / 18630, loss: 2.77250290
+epoch: 15 / 20,step 2999 / 18630, loss: 2.77257013
+epoch: 15 / 20,step 3999 / 18630, loss: 2.77279401
+epoch: 15 / 20,step 4999 / 18630, loss: 2.77268124
+epoch: 15 / 20,step 5999 / 18630, loss: 2.77271032
+epoch: 15 / 20,step 6999 / 18630, loss: 2.77255583
+epoch: 15 / 20,step 7999 / 18630, loss: 2.77272820
+epoch: 15 / 20,step 8999 / 18630, loss: 2.77263355
+epoch: 15 / 20,step 9999 / 18630, loss: 2.77253509
+epoch: 15 / 20,step 10999 / 18630, loss: 2.77268171
+epoch: 15 / 20,step 11999 / 18630, loss: 2.77269030
+epoch: 15 / 20,step 12999 / 18630, loss: 2.77242136
+epoch: 15 / 20,step 13999 / 18630, loss: 2.77244854
+epoch: 15 / 20,step 14999 / 18630, loss: 2.77240276
+epoch: 15 / 20,step 15999 / 18630, loss: 2.77219582
+epoch: 15 / 20,step 16999 / 18630, loss: 2.77244115
+epoch: 15 / 20,step 17999 / 18630, loss: 2.77251530
+epoch: 15 end ; cost time: 39.2712 min
+Current learning rate is [1.442962985964912e-06].
+epoch: 16 / 20,step 999 / 18630, loss: 2.77281427
+epoch: 16 / 20,step 1999 / 18630, loss: 2.77254152
+epoch: 16 / 20,step 2999 / 18630, loss: 2.77251673
+epoch: 16 / 20,step 3999 / 18630, loss: 2.77263498
+epoch: 16 / 20,step 4999 / 18630, loss: 2.77245784
+epoch: 16 / 20,step 5999 / 18630, loss: 2.77244854
+epoch: 16 / 20,step 6999 / 18630, loss: 2.77262163
+epoch: 16 / 20,step 7999 / 18630, loss: 2.77259684
+epoch: 16 / 20,step 8999 / 18630, loss: 2.77262115
+epoch: 16 / 20,step 9999 / 18630, loss: 2.77242374
+epoch: 16 / 20,step 10999 / 18630, loss: 2.77268720
+epoch: 16 / 20,step 11999 / 18630, loss: 2.77242279
+epoch: 16 / 20,step 12999 / 18630, loss: 2.77261877
+epoch: 16 / 20,step 13999 / 18630, loss: 2.77250862
+epoch: 16 / 20,step 14999 / 18630, loss: 2.77245045
+epoch: 16 / 20,step 15999 / 18630, loss: 2.77238011
+epoch: 16 / 20,step 16999 / 18630, loss: 2.77254248
+epoch: 16 / 20,step 17999 / 18630, loss: 2.77264214
+epoch: 16 end ; cost time: 39.4674 min
+Current learning rate is [1.3565993333333405e-07].
+epoch: 17 / 20,step 999 / 18630, loss: 2.77243757
+epoch: 17 / 20,step 1999 / 18630, loss: 2.77256203
+epoch: 17 / 20,step 2999 / 18630, loss: 2.77277613
+epoch: 17 / 20,step 3999 / 18630, loss: 2.77250814
+epoch: 17 / 20,step 4999 / 18630, loss: 2.77252626
+epoch: 17 / 20,step 5999 / 18630, loss: 2.77279758
+epoch: 17 / 20,step 6999 / 18630, loss: 2.77269316
+epoch: 17 / 20,step 7999 / 18630, loss: 2.77219868
+epoch: 17 / 20,step 8999 / 18630, loss: 2.77278471
+epoch: 17 / 20,step 9999 / 18630, loss: 2.77249718
+epoch: 17 / 20,step 10999 / 18630, loss: 2.77253294
+epoch: 17 / 20,step 11999 / 18630, loss: 2.77265239
+epoch: 17 / 20,step 12999 / 18630, loss: 2.77284908
+epoch: 17 / 20,step 13999 / 18630, loss: 2.77266693
+epoch: 17 / 20,step 14999 / 18630, loss: 2.77246523
+epoch: 17 / 20,step 15999 / 18630, loss: 2.77270389
+epoch: 17 / 20,step 16999 / 18630, loss: 2.77283192
+epoch: 17 / 20,step 17999 / 18630, loss: 2.77242565
+epoch: 17 end ; cost time: 39.2715 min
+Current learning rate is [1e-09].
+epoch: 18 / 20,step 999 / 18630, loss: 2.77247334
+epoch: 18 / 20,step 1999 / 18630, loss: 2.77238417
+epoch: 18 / 20,step 2999 / 18630, loss: 2.77267361
+epoch: 18 / 20,step 3999 / 18630, loss: 2.77253199
+epoch: 18 / 20,step 4999 / 18630, loss: 2.77287292
+epoch: 18 / 20,step 5999 / 18630, loss: 2.77243114
+epoch: 18 / 20,step 6999 / 18630, loss: 2.77247524
+epoch: 18 / 20,step 7999 / 18630, loss: 2.77246618
+epoch: 18 / 20,step 8999 / 18630, loss: 2.77248430
+epoch: 18 / 20,step 9999 / 18630, loss: 2.77254701
+epoch: 18 / 20,step 10999 / 18630, loss: 2.77247524
+epoch: 18 / 20,step 11999 / 18630, loss: 2.77244139
+epoch: 18 / 20,step 12999 / 18630, loss: 2.77270675
+epoch: 18 / 20,step 13999 / 18630, loss: 2.77278352
+epoch: 18 / 20,step 14999 / 18630, loss: 2.77266312
+epoch: 18 / 20,step 15999 / 18630, loss: 2.77252102
+epoch: 18 / 20,step 16999 / 18630, loss: 2.77253938
+epoch: 18 / 20,step 17999 / 18630, loss: 2.77276945
+epoch: 18 end ; cost time: 39.3589 min
+Current learning rate is [1e-09].
+epoch: 19 / 20,step 999 / 18630, loss: 2.77230096
+epoch: 19 / 20,step 1999 / 18630, loss: 2.77253890
+epoch: 19 / 20,step 2999 / 18630, loss: 2.77245998
+epoch: 19 / 20,step 3999 / 18630, loss: 2.77264667
+epoch: 19 / 20,step 4999 / 18630, loss: 2.77245212
+epoch: 19 / 20,step 5999 / 18630, loss: 2.77253675
+epoch: 19 / 20,step 6999 / 18630, loss: 2.77258515
+epoch: 19 / 20,step 7999 / 18630, loss: 2.77246523
+epoch: 19 / 20,step 8999 / 18630, loss: 2.77266121
+epoch: 19 / 20,step 9999 / 18630, loss: 2.77251935
+epoch: 19 / 20,step 10999 / 18630, loss: 2.77269363
+epoch: 19 / 20,step 11999 / 18630, loss: 2.77273560
+epoch: 19 / 20,step 12999 / 18630, loss: 2.77257299
+epoch: 19 / 20,step 13999 / 18630, loss: 2.77235770
+epoch: 19 / 20,step 14999 / 18630, loss: 2.77280426
+epoch: 19 / 20,step 15999 / 18630, loss: 2.77261925
+epoch: 19 / 20,step 16999 / 18630, loss: 2.77247477
+epoch: 19 / 20,step 17999 / 18630, loss: 2.77251649
+epoch: 19 end ; cost time: 39.3922 min
+Current learning rate is [1e-09].
+epoch: 20 / 20,step 999 / 18630, loss: 2.77237368
+epoch: 20 / 20,step 1999 / 18630, loss: 2.77239895
+epoch: 20 / 20,step 2999 / 18630, loss: 2.77258778
+epoch: 20 / 20,step 3999 / 18630, loss: 2.77236891
+epoch: 20 / 20,step 4999 / 18630, loss: 2.77240896
+epoch: 20 / 20,step 5999 / 18630, loss: 2.77260613
+epoch: 20 / 20,step 6999 / 18630, loss: 2.77253318
+epoch: 20 / 20,step 7999 / 18630, loss: 2.77254820
+epoch: 20 / 20,step 8999 / 18630, loss: 2.77243876
+epoch: 20 / 20,step 9999 / 18630, loss: 2.77266908
+epoch: 20 / 20,step 10999 / 18630, loss: 2.77261853
+epoch: 20 / 20,step 11999 / 18630, loss: 2.77260542
+epoch: 20 / 20,step 12999 / 18630, loss: 2.77248383
+epoch: 20 / 20,step 13999 / 18630, loss: 2.77274609
+epoch: 20 / 20,step 14999 / 18630, loss: 2.77248907
+epoch: 20 / 20,step 15999 / 18630, loss: 2.77274370
+epoch: 20 / 20,step 16999 / 18630, loss: 2.77247906
+epoch: 20 / 20,step 17999 / 18630, loss: 2.77249479
+epoch: 20 end ; cost time: 39.3510 min
+Current learning rate is [1e-09].

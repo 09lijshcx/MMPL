@@ -1,0 +1,139 @@
+nohup: ignoring input
+Random seed : 10
+Pre-trained weights of KPGT were loaded successfully!
+Set of Optimizer: lr:0.001, weight_decay:0.0
+Current Optimizer is adan
+Let's start training!
+epoch: 1 / 10,step 999 / 18630, loss: 2.77258945
+epoch: 1 / 10,step 1999 / 18630, loss: 2.77258921
+epoch: 1 / 10,step 2999 / 18630, loss: 2.77258921
+epoch: 1 / 10,step 3999 / 18630, loss: 2.77258897
+epoch: 1 / 10,step 4999 / 18630, loss: 2.77258873
+epoch: 1 / 10,step 5999 / 18630, loss: 2.77258873
+epoch: 1 / 10,step 6999 / 18630, loss: 2.77258897
+epoch: 1 / 10,step 7999 / 18630, loss: 2.77258921
+epoch: 1 / 10,step 8999 / 18630, loss: 2.77258921
+epoch: 1 / 10,step 9999 / 18630, loss: 2.77258897
+epoch: 1 / 10,step 10999 / 18630, loss: 2.77258873
+epoch: 1 / 10,step 11999 / 18630, loss: 2.77258921
+epoch: 1 / 10,step 12999 / 18630, loss: 2.77258873
+epoch: 1 / 10,step 13999 / 18630, loss: 2.77258873
+epoch: 1 / 10,step 14999 / 18630, loss: 2.77258873
+epoch: 1 / 10,step 15999 / 18630, loss: 2.77258873
+epoch: 1 / 10,step 16999 / 18630, loss: 2.77258873
+epoch: 1 / 10,step 17999 / 18630, loss: 2.77258897
+epoch: 1 end ; cost time: 43.3954 min
+epoch: 2 / 10,step 999 / 18630, loss: 2.77258873
+epoch: 2 / 10,step 1999 / 18630, loss: 2.77258897
+epoch: 2 / 10,step 2999 / 18630, loss: 2.77258897
+epoch: 2 / 10,step 3999 / 18630, loss: 2.77258897
+epoch: 2 / 10,step 4999 / 18630, loss: 2.77258897
+epoch: 2 / 10,step 5999 / 18630, loss: 2.77258897
+epoch: 2 / 10,step 6999 / 18630, loss: 2.77258873
+epoch: 2 / 10,step 7999 / 18630, loss: 2.77258873
+epoch: 2 / 10,step 8999 / 18630, loss: 2.77258897
+epoch: 2 / 10,step 9999 / 18630, loss: 2.77258921
+epoch: 2 / 10,step 10999 / 18630, loss: 2.77258873
+epoch: 2 / 10,step 11999 / 18630, loss: 2.77258897
+epoch: 2 / 10,step 12999 / 18630, loss: 2.77258873
+epoch: 2 / 10,step 13999 / 18630, loss: 2.77258873
+epoch: 2 / 10,step 14999 / 18630, loss: 2.77258873
+epoch: 2 / 10,step 15999 / 18630, loss: 2.77258873
+epoch: 2 / 10,step 16999 / 18630, loss: 2.77258897
+epoch: 2 / 10,step 17999 / 18630, loss: 2.77258921
+epoch: 2 end ; cost time: 43.4481 min
+epoch: 3 / 10,step 999 / 18630, loss: 2.77258873
+epoch: 3 / 10,step 1999 / 18630, loss: 2.77258921
+epoch: 3 / 10,step 2999 / 18630, loss: 2.77258897
+epoch: 3 / 10,step 3999 / 18630, loss: 2.77258897
+epoch: 3 / 10,step 4999 / 18630, loss: 2.77258921
+epoch: 3 / 10,step 5999 / 18630, loss: 2.77258897
+epoch: 3 / 10,step 6999 / 18630, loss: 2.77258873
+epoch: 3 / 10,step 7999 / 18630, loss: 2.77258921
+epoch: 3 / 10,step 8999 / 18630, loss: 2.77258921
+epoch: 3 / 10,step 9999 / 18630, loss: 2.77258897
+epoch: 3 / 10,step 10999 / 18630, loss: 2.77258897
+epoch: 3 / 10,step 11999 / 18630, loss: 2.77258921
+epoch: 3 / 10,step 12999 / 18630, loss: 2.77258921
+epoch: 3 / 10,step 13999 / 18630, loss: 2.77258897
+epoch: 3 / 10,step 14999 / 18630, loss: 2.77258897
+epoch: 3 / 10,step 15999 / 18630, loss: 2.77258897
+epoch: 3 / 10,step 16999 / 18630, loss: 2.77258873
+epoch: 3 / 10,step 17999 / 18630, loss: 2.77258921
+epoch: 3 end ; cost time: 43.3997 min
+epoch: 4 / 10,step 999 / 18630, loss: 2.77258897
+epoch: 4 / 10,step 1999 / 18630, loss: 2.77258873
+epoch: 4 / 10,step 2999 / 18630, loss: 2.77258921
+epoch: 4 / 10,step 3999 / 18630, loss: 2.77258897
+epoch: 4 / 10,step 4999 / 18630, loss: 2.77258897
+epoch: 4 / 10,step 5999 / 18630, loss: 2.77258873
+epoch: 4 / 10,step 6999 / 18630, loss: 2.77258921
+epoch: 4 / 10,step 7999 / 18630, loss: 2.77258873
+epoch: 4 / 10,step 8999 / 18630, loss: 2.77258921
+epoch: 4 / 10,step 9999 / 18630, loss: 2.77258873
+epoch: 4 / 10,step 10999 / 18630, loss: 2.77258921
+epoch: 4 / 10,step 11999 / 18630, loss: 2.77258921
+epoch: 4 / 10,step 12999 / 18630, loss: 2.77258873
+epoch: 4 / 10,step 13999 / 18630, loss: 2.77258897
+epoch: 4 / 10,step 14999 / 18630, loss: 2.77258921
+epoch: 4 / 10,step 15999 / 18630, loss: 2.77258873
+epoch: 4 / 10,step 16999 / 18630, loss: 2.77258873
+epoch: 4 / 10,step 17999 / 18630, loss: 2.77258921
+epoch: 4 end ; cost time: 43.3265 min
+epoch: 5 / 10,step 999 / 18630, loss: 2.77258873
+epoch: 5 / 10,step 1999 / 18630, loss: 2.77258873
+epoch: 5 / 10,step 2999 / 18630, loss: 2.77258921
+epoch: 5 / 10,step 3999 / 18630, loss: 2.77258897
+epoch: 5 / 10,step 4999 / 18630, loss: 2.77258921
+epoch: 5 / 10,step 5999 / 18630, loss: 2.77258897
+epoch: 5 / 10,step 6999 / 18630, loss: 2.77258921
+epoch: 5 / 10,step 7999 / 18630, loss: 2.77258873
+epoch: 5 / 10,step 8999 / 18630, loss: 2.77258921
+epoch: 5 / 10,step 9999 / 18630, loss: 2.77258897
+epoch: 5 / 10,step 10999 / 18630, loss: 2.77258921
+epoch: 5 / 10,step 11999 / 18630, loss: 2.77258897
+epoch: 5 / 10,step 12999 / 18630, loss: 2.77258873
+epoch: 5 / 10,step 13999 / 18630, loss: 2.77258873
+epoch: 5 / 10,step 14999 / 18630, loss: 2.77258921
+epoch: 5 / 10,step 15999 / 18630, loss: 2.77258921
+epoch: 5 / 10,step 16999 / 18630, loss: 2.77258897
+epoch: 5 / 10,step 17999 / 18630, loss: 2.77258897
+epoch: 5 end ; cost time: 43.2311 min
+epoch: 6 / 10,step 999 / 18630, loss: 2.77258873
+epoch: 6 / 10,step 1999 / 18630, loss: 2.77258921
+epoch: 6 / 10,step 2999 / 18630, loss: 2.77258921
+epoch: 6 / 10,step 3999 / 18630, loss: 2.77258873
+epoch: 6 / 10,step 4999 / 18630, loss: 2.77258921
+epoch: 6 / 10,step 5999 / 18630, loss: 2.77258921
+epoch: 6 / 10,step 6999 / 18630, loss: 2.77258921
+epoch: 6 / 10,step 7999 / 18630, loss: 2.77258873
+epoch: 6 / 10,step 8999 / 18630, loss: 2.77258921
+epoch: 6 / 10,step 9999 / 18630, loss: 2.77258873
+epoch: 6 / 10,step 10999 / 18630, loss: 2.77258921
+epoch: 6 / 10,step 11999 / 18630, loss: 2.77258921
+epoch: 6 / 10,step 12999 / 18630, loss: 2.77258921
+epoch: 6 / 10,step 13999 / 18630, loss: 2.77258873
+epoch: 6 / 10,step 14999 / 18630, loss: 2.77258897
+epoch: 6 / 10,step 15999 / 18630, loss: 2.77258921
+epoch: 6 / 10,step 16999 / 18630, loss: 2.77258921
+epoch: 6 / 10,step 17999 / 18630, loss: 2.77258873
+epoch: 6 end ; cost time: 43.2839 min
+epoch: 7 / 10,step 999 / 18630, loss: 2.77258897
+epoch: 7 / 10,step 1999 / 18630, loss: 2.77258897
+epoch: 7 / 10,step 2999 / 18630, loss: 2.77258921
+epoch: 7 / 10,step 3999 / 18630, loss: 2.77258873
+epoch: 7 / 10,step 4999 / 18630, loss: 2.77258897
+epoch: 7 / 10,step 5999 / 18630, loss: 2.77258897
+epoch: 7 / 10,step 6999 / 18630, loss: 2.77258897
+epoch: 7 / 10,step 7999 / 18630, loss: 2.77258897
+epoch: 7 / 10,step 8999 / 18630, loss: 2.77258921
+epoch: 7 / 10,step 9999 / 18630, loss: 2.77258897
+epoch: 7 / 10,step 10999 / 18630, loss: 2.77258897
+epoch: 7 / 10,step 11999 / 18630, loss: 2.77258897
+epoch: 7 / 10,step 12999 / 18630, loss: 2.77258921
+epoch: 7 / 10,step 13999 / 18630, loss: 2.77258897
+epoch: 7 / 10,step 14999 / 18630, loss: 2.77258897
+epoch: 7 / 10,step 15999 / 18630, loss: 2.77258873
+epoch: 7 / 10,step 16999 / 18630, loss: 2.77258873
+epoch: 7 / 10,step 17999 / 18630, loss: 2.77258921
+epoch: 7 end ; cost time: 43.3630 min
